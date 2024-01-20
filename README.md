@@ -3,7 +3,6 @@ Este repositorio muestra la sexta practica del diplomado de como podemos program
 
 ## Introducción
 
-## Introducción
 
 ### Descripción
 
