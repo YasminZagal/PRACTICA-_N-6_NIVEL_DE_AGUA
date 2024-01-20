@@ -6,7 +6,7 @@ Este repositorio muestra la sexta practica del diplomado de como podemos program
 
 ### Descripción
 
-La ```Esp32``` la utilizamos en un entorno de adquision de datos, lo cual en esta practica ocuparemos un sensor (```Ultrasonico HC-SR04```)  medicion de distancia, añidimos unos indicadores (```LED```) para saber a que nivel se encuantra el agua; Esta practica se usara un simulador llamado [WOKWI](https://wokwi.com/).
+La ```Esp32``` la utilizamos en un entorno de adquision de datos, lo cual en esta practica ocuparemos un sensor (```Ultrasonico HC-SR04```)  medicion de distancia, añidimos unos indicadores (```LED```) para saber a que nivel se encuentra el agua; Esta practica se usara un simulador llamado [WOKWI](https://wokwi.com/).
 
 
 ## Material Necesario
